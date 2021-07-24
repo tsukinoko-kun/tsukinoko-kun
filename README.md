@@ -1,10 +1,15 @@
-### Hello there 🙃
-
-[Contact Me 💬](https://frank-mayer.io/links)
+# Hello there 🙃
+I'm Frank, web developer from germany
 
 ![Frank's GitHub stats](https://github-readme-stats-frank-mayer.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-### Languages and Tools:
+[View my portfolio 👀](https://frank-mayer.io/portfolio)
+
+[More info about me ℹ️](https://frank-mayer.io/info)
+
+[Contact Me 💬](https://frank-mayer.io/links)
+
+## My languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
