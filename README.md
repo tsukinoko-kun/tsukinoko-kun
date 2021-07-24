@@ -1,5 +1,7 @@
 ### Hello there 🙃
 
+[Contact Me 💬](https://frank-mayer.io/links)
+
 ![Frank's GitHub stats](https://github-readme-stats-frank-mayer.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### Languages and Tools:
