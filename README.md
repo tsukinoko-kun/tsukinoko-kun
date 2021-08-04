@@ -7,7 +7,7 @@ I'm Frank, web developer from germany
 
 [More info about me ℹ️](https://frank-mayer.io/info)
 
-[Contact Me 💬](https://frank-mayer.io/links)
+[Contact Me 💬](https://github.com/Frank-Mayer/Frank-Mayer/discussions/1)
 
 ## My languages and tools:
 
