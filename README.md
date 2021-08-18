@@ -7,7 +7,7 @@ I'm Frank, web developer from germany
 
 [More info about me ℹ️](https://frank-mayer.io/info)
 
-[Contact me via GitHub 💬](https://github.com/Frank-Mayer/Frank-Mayer/discussions/1)
+[Contact me via Discord 💬](https://discordapp.com/users/383628783187394561)
 
 ## My languages and tools:
 
@@ -17,6 +17,7 @@ I'm Frank, web developer from germany
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Deno" width="26px" src="https://github.com/denolib/animated-deno-logo/raw/master/deno-circle-small-12fps.gif" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
