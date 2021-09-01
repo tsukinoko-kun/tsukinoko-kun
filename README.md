@@ -1,7 +1,7 @@
 # Hello there 🙃
 I'm Frank, web developer from germany
 
-![Frank's GitHub stats](https://github-readme-stats-frank-mayer.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Frank's GitHub stats](https://github-readme-stats-frank-mayer.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 [View my portfolio 👀](https://frank-mayer.io/portfolio)
 
