@@ -9,6 +9,8 @@ I'm Frank, web developer from germany
 
 [Contact me via Discord 💬](https://discordapp.com/users/383628783187394561)
 
+[Visit my LinkedIn 👨‍💻](https://www.linkedin.com/in/frank-mayer-b85677214)
+
 ## My languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
