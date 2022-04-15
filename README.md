@@ -4,15 +4,19 @@ I'm Frank, web developer from germany
 
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Mayer&theme=github_dark&hide_border=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Mayer&theme=github_dark&hide_border=true&count_private=true&layout=compact)
 
-[View my portfolio 👀](https://frank-mayer.io/portfolio)
+[👀 View my portfolio](https://frank-mayer.io/portfolio)
 
-[More info about me ℹ️](https://frank-mayer.io/info)
+[ℹ️ More info about me](https://frank-mayer.io/info)
 
-[Contact me via Discord 💬](https://discordapp.com/users/383628783187394561)
+[💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
 
-[Visit my LinkedIn 👨‍💻](https://www.linkedin.com/in/frank-mayer-b85677214)
+[👨‍💻 Visit my LinkedIn](https://www.linkedin.com/in/frank-mayer-b85677214)
+
+[🎧 Spotify](https://open.spotify.com/user/u73d67nen42ugnzo2zucxqotd?si=9f0df48fb51c42f5)
+
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=u73d67nen42ugnzo2zucxqotd&theme=natemoo-re&invert_artist_title=true&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%231ED760&background=true&background_color=%23121212)](https://open.spotify.com/user/u73d67nen42ugnzo2zucxqotd?si=9f0df48fb51c42f5)
 
 ## Languages and Tools
 
