@@ -6,9 +6,9 @@ I'm Frank, web developer from germany
 
 <p><img alt="Top Languages" src="https://stats.frank-mayer.io/api/top-langs/?username=Frank-Mayer&theme=github_dark&hide_border=true&count_private=true&layout=compact" style="aspect-ratio: 350/165;" /></p>
 
-[👀 View my portfolio](https://frank-mayer.io/en/portfolio)
+[👀 View my portfolio](https://www.frank-mayer.io/portfolio)
 
-[ℹ️ More info about me](https://frank-mayer.io/en/info)
+[ℹ️ More info about me](https://www.frank-mayer.io)
 
 [💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
 
