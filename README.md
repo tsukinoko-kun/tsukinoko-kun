@@ -2,9 +2,11 @@
 
 I'm Frank, web developer from germany
 
-<p><img alt="Frank's GitHub stats" src="https://stats.frank-mayer.io/api?username=Frank-Mayer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" style="aspect-ratio: 495/195;" /></p>
+<p><img alt="Frank's GitHub stats" src="https://stats.frank-mayer.io/api?username=Frank-Mayer&show_icons=true&theme=transparent&hide_border=false&count_private=true" style="aspect-ratio: 495/195;" /></p>
 
-<p><img alt="Top Languages" src="https://stats.frank-mayer.io/api/top-langs/?username=Frank-Mayer&theme=github_dark&hide_border=true&count_private=true&layout=compact" style="aspect-ratio: 350/165;" /></p>
+<p><img alt="Top Languages" src="https://stats.frank-mayer.io/api/top-langs/?username=Frank-Mayer&theme=transparent&hide_border=false&count_private=true&layout=compact" style="aspect-ratio: 350/165;" /></p>
+
+<!-- <p><img alt="Wakatime" src="https://stats.frank-mayer.io/api/wakatime/?username=Frank-Mayer&theme=transparent&hide_border=false" /></p> -->
 
 [👀 View my portfolio](https://www.frank-mayer.io/portfolio)
 
