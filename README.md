@@ -1,6 +1,6 @@
 # Hello there 🙃
 
-I'm Frank, web developer from germany
+I'm Frank, software engineer from germany
 
 <p>
 <picture>
