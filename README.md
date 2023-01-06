@@ -2,11 +2,59 @@
 
 I'm Frank, web developer from germany
 
-<p><img alt="Frank's GitHub stats" src="https://stats.frank-mayer.io/api?username=Frank-Mayer&show_icons=true&theme=transparent&hide_border=false&count_private=true" style="aspect-ratio: 495/195;" /></p>
+<p>
+<picture>
+<source 
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=default&count_private=true"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true"
+  media="(prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true" />
+</picture>
+</p>
 
-<p><img alt="Top Languages" src="https://stats.frank-mayer.io/api/top-langs/?username=Frank-Mayer&theme=transparent&hide_border=false&count_private=true&layout=compact" style="aspect-ratio: 350/165;" /></p>
+<p>
+<picture>
+<source 
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=default&count_private=true&layout=compact"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true&layout=compact"
+  media="(prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true&layout=compact" />
+</picture>
+</p>
 
-<p><img alt="Wakatime" src="https://stats.frank-mayer.io/api/wakatime/?username=tsukinoko&theme=transparent&hide_border=false" /></p>
+<p>
+<picture>
+<source 
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=github_dark&count_private=true&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=default&count_private=true&layout=compact"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=transparent&count_private=true&layout=compact"
+  media="(prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=transparent&count_private=true&layout=compact" />
+</picture>
+</p>
 
 [👀 View my portfolio](https://www.frank-mayer.io/portfolio)
 
