@@ -2,62 +2,10 @@
 
 I'm Frank, software engineer from germany
 
-<p>
-<picture>
-<source 
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=default&count_private=true"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true"
-  media="(prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true" />
-</picture>
-</p>
+<p><img src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true" /></p>
 
-<!--
-<p>
-<picture>
-<source 
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=default&count_private=true&layout=compact"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true&layout=compact"
-  media="(prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true&layout=compact" />
-</picture>
-</p>
--->
-
-<p>
-<picture>
-<source 
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=github_dark&count_private=true&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=default&count_private=true&layout=compact"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=transparent&count_private=true&layout=compact"
-  media="(prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?username=tsukinoko&show_icons=true&theme=transparent&count_private=true&layout=compact" />
-</picture>
-</p>
-
+<p><img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?custom_title=Most%20Used%20Languages&username=tsukinoko&hide=Other,JSON,INI,netrw,Vim%20Script,Git%20Config,textmate&theme=github_dark&layout=compact"/></p>
+  
 [👀 View my portfolio](https://www.frank-mayer.io/portfolio)
 
 [ℹ️ More info about me](https://www.frank-mayer.io)
