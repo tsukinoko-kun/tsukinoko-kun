@@ -20,6 +20,7 @@ I'm Frank, software engineer from germany
 </picture>
 </p>
 
+<!--
 <p>
 <picture>
 <source 
@@ -37,6 +38,7 @@ I'm Frank, software engineer from germany
 <img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/top-langs?username=Frank-Mayer&show_icons=true&theme=transparent&count_private=true&layout=compact" />
 </picture>
 </p>
+-->
 
 <p>
 <picture>
