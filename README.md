@@ -4,7 +4,7 @@ I'm Frank, software engineer from germany
 
 <p><img src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true" /></p>
 
-<p><img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?custom_title=Most%20Used%20Languages&username=tsukinoko&hide=Other,JSON,INI,netrw,Vim%20Script,Git%20Config,textmate&theme=github_dark&layout=compact"/></p>
+<p><img src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?custom_title=Most%20Used%20Languages%20This%20Week&username=tsukinoko&hide=Other,JSON,INI,netrw,Vim%20Script,Git%20Config,textmate&theme=github_dark&layout=compact"/></p>
   
 [👀 View my portfolio](https://www.frank-mayer.io/portfolio)
 
