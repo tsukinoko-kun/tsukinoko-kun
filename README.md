@@ -2,7 +2,7 @@
 
 I'm Frank, software engineer from germany
 
-<p><img dncoding="async" loading="lazy" src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true&hide_border=true" /></p>
+<!--<p><img dncoding="async" loading="lazy" src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true&hide_border=true" /></p>-->
 
 <p><img dncoding="async" loading="lazy" src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?custom_title=Most%20Used%20Languages%20Last%20Week&username=tsukinoko&hide=Other,JSON,INI,netrw,Markdown,Vim%20Script,Git%20Config,textmate,Text,Bash,YAML,XML&theme=github_dark&layout=compact&hide_border=true"/></p>
   
