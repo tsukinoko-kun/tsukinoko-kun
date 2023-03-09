@@ -29,6 +29,23 @@ I'm Frank, software engineer from germany
   Sass
 </a>
 
+## Tools I use
+
+<a href="https://helix-editor.com/" target="_blank">
+  <img style="height: 2em" alt="helix icon" src="https://raw.githubusercontent.com/helix-editor/website/main/static/logo.svg" />
+  Helix
+</a>
+<br/>
+<a href="https://alacritty.org/" target="_blank">
+  <img style="height: 2em" alt="alacritty icon" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg" />
+  Alacritty
+</a>
+<br/>
+<a href="https://www.figma.com/" target="_blank">
+  <img style="height: 2em" alt="figma icon" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+  Figma
+</a>
+
 ## Links
   
 [👀 View my portfolio](https://www.frank-mayer.io/#portfolio)
