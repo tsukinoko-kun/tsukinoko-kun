@@ -2,9 +2,34 @@
 
 I'm Frank, software engineer from germany
 
-<!--<p><img dncoding="async" loading="lazy" src="https://github-readme-stats-zeta-bice-58.vercel.app/api?username=Frank-Mayer&show_icons=true&theme=github_dark&count_private=true&hide_border=true" /></p>-->
+## My top languages
 
-<p><img dncoding="async" loading="lazy" src="https://github-readme-stats-zeta-bice-58.vercel.app/api/wakatime?custom_title=Most%20Used%20Languages%20Last%20Week&username=tsukinoko&hide=Other,JSON,INI,netrw,Markdown,Vim%20Script,Git%20Config,textmate,Text,Bash,YAML,XML&theme=github_dark&layout=compact&hide_border=true"/></p>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img style="height: 2em" alt="rust icon" src="https://www.rust-lang.org/logos/rust-logo-64x64.png" />
+  Rust
+</a>
+<br/>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img style="height: 2em" alt="typescript icon" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+  TypeScript
+</a>
+<br/>
+<a href="https://fsharp.org/" target="_blank">
+  <img style="height: 2em" alt="f# icon" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" />
+  F#
+</a>
+<br/>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img style="height: 2em" alt="kotlin icon" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" />
+  Kotlin
+</a>
+<br/>
+<a href="https://sass-lang.com/" target="_blank">
+  <img style="height: 2em" alt="sass icon" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />
+  Sass
+</a>
+
+## Links
   
 [👀 View my portfolio](https://www.frank-mayer.io/#portfolio)
 
