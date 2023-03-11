@@ -15,7 +15,7 @@ I'm Frank, software engineer from germany
 </a>
 <br/>
 <a href="https://fsharp.org/" target="_blank">
-  <img style="height: 2em" alt="f# icon" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" />
+  <img style="height: 2em" alt="f# icon" src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" />
   F#
 </a>
 <br/>
@@ -31,9 +31,9 @@ I'm Frank, software engineer from germany
 
 ## Tools I use
 
-<a href="https://helix-editor.com/" target="_blank">
-  <img style="height: 2em" alt="helix icon" src="https://raw.githubusercontent.com/helix-editor/website/main/static/logo.svg" />
-  Helix
+<a href="https://neovim.io/" target="_blank">
+  <img style="height: 2em" alt="nvim icon" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
+  Neovim
 </a>
 <br/>
 <a href="https://alacritty.org/" target="_blank">
