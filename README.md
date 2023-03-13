@@ -45,6 +45,11 @@ I'm Frank, software engineer from germany
   <img style="height: 2em" alt="figma icon" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
   Figma
 </a>
+<br/>
+<a href="https://arc.net/" target="_blank">
+  <img style="height: 2em" alt="arc icon" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/arc.svg" />
+  Arc
+</a>
 
 ## Links
   
