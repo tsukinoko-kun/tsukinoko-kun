@@ -29,12 +29,12 @@ I'm Frank, software engineer from germany
       <a href="https://sass-lang.com/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /> Sass</a>
     </td>
     <td>
-      <a href="https://alacritty.org/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg" /> Alacritty</a>
+      <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" /> Kitty</a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://kotlinlang.org/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" /> Kotlin</a>
+      <a href="https://www.lua.org/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua</a>
     </td>
     <td>
       <a href="https://www.figma.com/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> Figma</a>
