@@ -58,10 +58,10 @@ I'm Frank, software engineer from germany
 </tbody></table>
 
 ## Links
-  
-[👀 View my portfolio](https://www.frank-mayer.io/#portfolio)
 
-[ℹ️ More info about me](https://www.frank-mayer.io)
+[👀 View my portfolio](https://www.frank-mayer.io/#my_portfolio)
+
+[ℹ️ More info about me](https://www.frank-mayer.io/#about_me)
 
 [💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
 
