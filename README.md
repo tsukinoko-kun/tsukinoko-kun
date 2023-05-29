@@ -1,7 +1,8 @@
 # Hello there 🙃
 
 I'm Frank, software engineer from germany
-
+<table cellspacing="0" cellpadding="0"><tbody><tr>
+<td>
 <table><thead>
   <tr>
     <th>My top languages</th>
@@ -56,6 +57,9 @@ I'm Frank, software engineer from germany
     </td>
   </tr>
 </tbody></table>
+</td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Frank-Mayer&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></td>
+</tr></tbody></table>
 
 ## Links
 
