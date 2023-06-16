@@ -1,4 +1,4 @@
-# Hello there 🙃
+# Hello there :D
 
 I'm Frank, software engineer from germany
 
@@ -41,18 +41,9 @@ I'm Frank, software engineer from germany
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://go.dev/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" /> Go</a>
-    </td>
+    <td></td>
     <td>
       <a href="https://arc.net/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/arc.svg" /> Arc</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://fsharp.org/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" /> F#</a>
-    </td>
-    <td>
     </td>
   </tr>
 </tbody></table>
