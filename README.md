@@ -4,9 +4,6 @@ I'm Frank, software engineer from germany.
 
 Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s.
 
-<br/>
-<br/>
-
 <table><thead>
   <tr>
     <th>My top languages</th>
