@@ -6,7 +6,7 @@ I'm Frank, software engineer from germany.
 
 ![](https://media1.giphy.com/media/BUmKijt60oiYTl8EtC/giphy.gif)
 
-Casually casting Vim jutsus
+Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s.
 
 <br/>
 <br/>
