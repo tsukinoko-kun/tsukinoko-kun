@@ -22,6 +22,6 @@ Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s.
 
 [💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
 
-[👨‍💻 Visit my LinkedIn](linkedin.com/in/frank-mayer-de)
+[👨‍💻 Visit my LinkedIn](https://linkedin.com/in/frank-mayer-de)
 
 [🎧 Spotify](https://open.spotify.com/user/u73d67nen42ugnzo2zucxqotd?si=9f0df48fb51c42f5)
