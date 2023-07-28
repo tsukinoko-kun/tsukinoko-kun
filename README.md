@@ -2,7 +2,7 @@
 
 I'm Frank, software engineer from germany.
 
-Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s at [Neovim](https://github.com/neovim), (GoogleChromeLabs)[https://github.com/GoogleChromeLabs] and [Heilbronn University of Applied Sciences](https://www.hs-heilbronn.de/).
+Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s at [Neovim](https://github.com/neovim), [GoogleChromeLabs](https://github.com/GoogleChromeLabs) and [Heilbronn University of Applied Sciences](https://www.hs-heilbronn.de/).
 
 ## Tools I use
 
