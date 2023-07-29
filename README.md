@@ -1,4 +1,4 @@
-# ![](https://statics.frank-mayer.io/github/header.svg)
+# Hello there :D
 
 I'm Frank, software engineer from germany.
 
