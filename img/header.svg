@@ -27,8 +27,9 @@
         <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
             <use xlink:href="#image1_301_3" transform="scale(0.000976562)" />
         </pattern>
-        <image id="image0_301_3" width="1232" height="669" href="back.webp" />
+        <image id="image0_301_3" width="1232" height="669"
+            href="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/back.webp" />
         <image id="image1_301_3" width="1024" height="1024"
-            href="https://avatars.githubusercontent.com/u/53651857?v=4" />
+            href="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/profile.webp" />
     </defs>
 </svg>
