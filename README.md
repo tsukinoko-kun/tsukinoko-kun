@@ -1,4 +1,4 @@
-# Hello there :D
+<h1><img src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/header.svg"/></h1>
 
 I'm Frank, software engineer from germany.
 
@@ -6,7 +6,7 @@ Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s at [Neovim](
 
 ## Tools I use
 
-<a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/neovim.svg" /> Neovim</a> 
+<a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/neovim.svg" /> Neovim</a>
 
 <a href="https://github.com/wez/wezterm" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/wezterm.svg" /> WezTerm</a>
 
