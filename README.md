@@ -1,8 +1,8 @@
-# Hello there :D
+## Hello there :D
 
 I'm Frank, software engineer from germany.
 
-Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s at [Neovim](https://github.com/neovim), [GoogleChromeLabs](https://github.com/GoogleChromeLabs) and [Heilbronn University of Applied Sciences](https://www.hs-heilbronn.de/).
+Contributor at [Neovim](https://github.com/neovim) and [GoogleChromeLabs](https://github.com/GoogleChromeLabs).
 
 ## Tools I use
 
@@ -14,7 +14,7 @@ Casually casting Vim [Jutsu](https://naruto.fandom.com/wiki/Jutsu)s at [Neovim](
 
 <a href="https://www.figma.com/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> Figma</a>
 
-## Links
+### Links
 
 [👀 View my portfolio](https://www.frank-mayer.io/#my_portfolio)
 
