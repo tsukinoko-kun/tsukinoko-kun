@@ -10,7 +10,7 @@ Contributor at [Neovim](https://github.com/neovim) and [GoogleChromeLabs](https:
 
 <a href="https://github.com/wez/wezterm" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/wezterm.svg" /> WezTerm</a>
 
-<a href="https://brave.com/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/brave.svg" /> Brave</a>
+<a href="https://librewolf.net/" target="_blank"><img style="height: 2em" alt="" src="https://librewolf.net/icon.svg" /> LibreWolf</a>
 
 <a href="https://www.figma.com/" target="_blank"><img style="height: 2em" alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> Figma</a>
 
