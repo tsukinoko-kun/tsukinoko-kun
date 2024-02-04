@@ -8,7 +8,7 @@ Contributor at [Neovim](https://github.com/neovim) and [GoogleChromeLabs](https:
 
 <a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/neovim.svg" /> Neovim</a>
 
-<a href="https://www.warp.dev/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/warp.svg" /> WezTerm</a>
+<a href="https://www.warp.dev/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/Frank-Mayer/Frank-Mayer/master/img/warp.svg" /> Warp</a>
 
 <a href="https://floorp.app/" target="_blank"><img style="height: 2em" alt="" src="https://avatars.githubusercontent.com/u/94953125?s=128&v=4" /> Floorp</a>
 
