@@ -18,7 +18,7 @@ Contributor at [Neovim](https://github.com/neovim) and [GoogleChromeLabs](https:
 
 [👀 View my portfolio](https://frankmayer.dev/)
 
-[ℹ️ More info about me](https://frankmayer.dev/about_me/)
+[ℹ️ My resume](https://frankmayer.dev/resume/)
 
 [💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
 
