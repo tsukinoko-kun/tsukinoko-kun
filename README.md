@@ -2,8 +2,6 @@
 
 I'm Frank, software engineer from germany.
 
-Contributor at [Neovim](https://github.com/neovim) and [GoogleChromeLabs](https://github.com/GoogleChromeLabs).
-
 ## Tools I use
 
 <a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/tsukinoko-kun/tsukinoko-kun/master/img/neovim.svg" /> Neovim</a>
