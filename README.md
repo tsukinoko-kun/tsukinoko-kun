@@ -11,9 +11,6 @@ I'm Frank, software engineer from germany.
 [![Top Langs-Dark](https://github-readme-stats-green-phi-85.vercel.app/api/top-langs/?username=tsukinoko-kun&layout=compact&theme=github_dark&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats-green-phi-85.vercel.app/api/top-langs/?username=tsukinoko-kun&layout=compact&theme=default&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs-Dark](https://github-readme-stats-green-phi-85.vercel.app/api/wakatime/?username=tsukinoko_kun&layout=compact&theme=github_dark&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-green-phi-85.vercel.app/api/wakatime/?username=tsukinoko_kun&layout=compact&theme=default&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ### Programming language tierlist (my personal opinion)
 
 ![](https://raw.githubusercontent.com/tsukinoko-kun/tsukinoko-kun/refs/heads/master/img/tierlist.svg)
