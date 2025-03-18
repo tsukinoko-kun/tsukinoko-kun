@@ -20,9 +20,3 @@ I'm Frank, software engineer from germany.
 [👀 View my portfolio](https://frankmayer.dev/)
 
 [ℹ️ My resume](https://frankmayer.dev/resume/)
-
-[💬 Contact me via Discord](https://discordapp.com/users/383628783187394561)
-
-[👨‍💻 Visit my LinkedIn](https://linkedin.com/in/frank-mayer-de)
-
-[🎧 Spotify](https://open.spotify.com/user/u73d67nen42ugnzo2zucxqotd?si=9f0df48fb51c42f5)
