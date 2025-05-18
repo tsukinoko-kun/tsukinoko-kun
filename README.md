@@ -6,7 +6,7 @@ I'm Frank, software engineer from germany.
 
 <a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/tsukinoko-kun/tsukinoko-kun/master/img/neovim.svg" /> Neovim</a>&nbsp;&nbsp;
 <a href="https://ghostty.org/" target="_blank"><img style="height: 2em" alt="" src="https://avatars.githubusercontent.com/u/169223740?s=200&v=4" /> Ghostty</a>&nbsp;&nbsp;
-<a href="https://vivaldi.com/" target="_blank"><img style="height: 2em" alt="" src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_mac.png" /> Vivaldi</a>
+<a href="https://kagi.com/orion/" target="_blank"><img style="height: 2em" alt="" src="https://kagi.com/orion/public/images/orion-circle.png" /> Orion</a>
 
 [![Top Langs-Dark](https://github-readme-stats-green-phi-85.vercel.app/api/top-langs/?username=tsukinoko-kun&layout=compact&theme=github_dark&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats-green-phi-85.vercel.app/api/top-langs/?username=tsukinoko-kun&layout=compact&theme=default&count_private=true&hide_border=true&exclude_repo=piantor42-colemak-de#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
