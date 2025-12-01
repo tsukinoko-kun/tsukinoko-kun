@@ -8,7 +8,7 @@ I'm Frank, software engineer from germany.
 
 <a href="https://ghostty.org/" target="_blank"><img style="height: 2em" alt="" src="https://avatars.githubusercontent.com/u/169223740?s=200&v=4" /> Ghostty Terminal</a>
 
-<a href="https://zen-browser.app/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/zen-browser/branding/refs/heads/main/Official/SVG/Zen-3D-Dark.svg" /> Zen Browser</a>
+<a href="https://helium.computer/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/imputnet/helium/refs/heads/main/resources/branding/app_icon/raw.png" /> Helium Browser</a>
 
 ### Programming language tierlist (my personal opinion)
 
