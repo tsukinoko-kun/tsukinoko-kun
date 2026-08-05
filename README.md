@@ -4,6 +4,13 @@ I'm Frank, software engineer from germany.
 
 New projects will be hosted on [codeberg.org](https://codeberg.org/tsukinoko-kun) if possible (if I don't need macOS runners from GitHub)
 
+## Past contributions
+
+- Microsoft Direct X Shader Compiler
+- Jai (Programming language closed beta test)
+- Neovim Node Client
+- Google Chrome Labs Squoosh
+
 ## Tools I use
 
 <a href="https://neovim.io/" target="_blank"><img style="height: 2em" alt="" src="https://raw.githubusercontent.com/tsukinoko-kun/tsukinoko-kun/master/img/neovim.svg" /> Neovim</a>
